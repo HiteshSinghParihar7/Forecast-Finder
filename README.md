@@ -1,4 +1,4 @@
-# ![Forecast-Finder Logo]() Forecast-Finder
+# ![Forecast-Finder Logo](https://github.com/HiteshSinghParihar7/Forecast-Finder/blob/main/forecast-finder-high-resolution-logo.jpg?raw=true) Forecast-Finder
 Forecast-Finder : A React.js application offering live weather updates, fetching real-time data via the OpenWeatherMap API.
 
 # React + Vite
