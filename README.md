@@ -1,12 +1,27 @@
-# ![Forecast-Finder Logo](https://github.com/HiteshSinghParihar7/Forecast-Finder/blob/main/forecast-finder-high-resolution-logo.jpg?raw=true) Forecast-Finder
-Forecast-Finder : A React.js application offering live weather updates, fetching real-time data via the OpenWeatherMap API.
+<p align="center">
+  <img src="https://github.com/HiteshSinghParihar7/Forecast-Finder/blob/main/forecast-finder-high-resolution-logo.jpg?raw=true" alt="Forecast-Finder Logo" width="200">
+</p>
 
-# React + Vite
+# Forecast-Finder
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Forecast-Finder is a React.js application offering live weather updates, fetching real-time data via the OpenWeatherMap API.
 
-Currently, two official plugins are available:
+## About
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-e955575f (Added Initial Files)
+This project utilizes React with Vite for fast development and HMR (Hot Module Replacement). It includes ESLint rules for maintaining code quality.
+
+## Features
+
+- Real-time weather updates
+- Responsive design
+- User-friendly interface
+
+## How to Use
+
+To run this project locally, follow these steps:
+
+1. **Clone the Repository**
+
+   ```bash
+   git clone https://github.com/HiteshSinghParihar7/Forecast-Finder.git
+   cd Forecast-Finder
