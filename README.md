@@ -33,11 +33,11 @@ To run this project locally, follow these steps:
    cd Forecast-Finder
 2. **Install Dependencies**
 
-   npm install
+   -npm install
 
 3.Run the Development Server
 
-npm run dev
+   -npm run dev
 
 4.**Open your browser and navigate to the url shown by npm run dev (possibly as http://localhost:5173/) to view the Forecast-Finder application.**
 
