@@ -31,15 +31,16 @@ To run this project locally, follow these steps:
    ```bash
    git clone https://github.com/HiteshSinghParihar7/Forecast-Finder.git
    cd Forecast-Finder
-2. **Install Dependencies**
+   
+## 2. **Install Dependencies**
 
-   -npm install
+   - npm install
 
-3.Run the Development Server
+## 3.Run the Development Server
 
-   -npm run dev
+   - npm run dev
 
-4.**Open your browser and navigate to the url shown by npm run dev (possibly as http://localhost:5173/) to view the Forecast-Finder application.**
+## 4.**Open your browser and navigate to the url shown by npm run dev (possibly as http://localhost:5173/) to view the Forecast-Finder application.**
 
 
 
