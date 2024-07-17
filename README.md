@@ -10,6 +10,12 @@ Forecast-Finder is a React.js application offering live weather updates, fetchin
 
 This project utilizes React with Vite for fast development and HMR (Hot Module Replacement). It includes ESLint rules for maintaining code quality.
 
+## Technologies Used
+
+- React.js
+- Vite (Fast Refresh enabled)
+- OpenWeatherMap API
+
 ## Features
 
 - Real-time weather updates
@@ -35,25 +41,5 @@ npm run dev
 
 4.**Open your browser and navigate to the url shown by npm run dev (possibly as http://localhost:5173/) to view the Forecast-Finder application.**
 
-## Technologies Used
 
-- React.js
-- Vite (Fast Refresh enabled)
-- OpenWeatherMap API
 
-## Contributing
-
-Contributions are welcome! Please fork the repository and submit a pull request with your improvements.
-
-### Explanation:
-
-1. **How to Use Section:**
-   - Consolidates steps for cloning the repository, installing dependencies (`npm install`), and starting the development server (`npm run dev`).
-
-2. **Technologies Used:**
-   - Enumerates the technologies employed in the project.
-
-3. **Contributing and License:**
-   - Encourages contributions and specifies the project's licensing information.
-
-This README.md structure is designed to be comprehensive and self-contained, providing users with all necessary information to understand, use, and contribute to your Forecast-Finder project on GitHub. Adjust any details or sections as needed based on your project's specific requirements.
