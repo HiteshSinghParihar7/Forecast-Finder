@@ -25,8 +25,10 @@ export default function WeatherApp() {
           <h1 style={{border:"2px solid black"}}><b>Forecast - Finder (<i>Live Weather Updates</i>
               )</b></h1>
           <br /><br />
+          <div className="w-card">
           <SearchBox updateInfo={ updateInfo} />
           <InfoBox data={weatherInfo } />
+          </div>
     </div>
   );
 }
